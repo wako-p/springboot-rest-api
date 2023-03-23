@@ -10,7 +10,8 @@
         "vscode": {
             "settings": {
                 "terminal.integrated.defaultProfile.linux": "bash",
-                "java.compile.nullAnalysis.mode": "automatic"
+                "java.compile.nullAnalysis.mode": "automatic",
+                "gradle.nestedProjects": true
             },
             "extensions": [
                 // Java
